@@ -1,0 +1,12 @@
+{"timestampUtc":"2026-03-13T13:01:02.7283238Z","category":"auth","action":"google_login_missing_client_id","severity":"warning"}
+{"timestampUtc":"2026-03-13T13:01:20.7944985Z","category":"auth","action":"login_failed_unknown_user","severity":"warning","username":"phannhatdang","ip":"::1","locked":false,"retryAfterSeconds":0}
+{"timestampUtc":"2026-03-13T13:03:09.5734172Z","category":"auth","action":"login_failed_unknown_user","severity":"warning","username":"phannhatdang","ip":"::1","locked":false,"retryAfterSeconds":0}
+{"timestampUtc":"2026-03-13T13:03:10.6863954Z","category":"auth","action":"google_login_missing_client_id","severity":"warning"}
+{"timestampUtc":"2026-03-13T13:04:11.6490238Z","category":"auth","action":"google_login_missing_client_id","severity":"warning"}
+{"timestampUtc":"2026-03-14T05:48:38.4659190Z","category":"auth","action":"login_failed_wrong_password","severity":"warning","username":"khanh","customerId":11,"ip":"::1","locked":false,"retryAfterSeconds":0}
+{"timestampUtc":"2026-03-14T05:48:43.4400028Z","category":"auth","action":"login_success","severity":"info","username":"khanh","customerId":11,"ip":"::1"}
+{"timestampUtc":"2026-03-22T14:50:45.8332202Z","category":"chatbot","action":"ask_error","severity":"error","ip":"::1","customerId":"guest","error":"The underlying provider failed on Open."}
+{"timestampUtc":"2026-03-23T04:25:31.0342531Z","category":"auth","action":"password_rehashed_on_login","severity":"info","username":"dangpn","customerId":1}
+{"timestampUtc":"2026-03-23T04:25:31.1543635Z","category":"auth","action":"login_success","severity":"info","username":"dangpn","customerId":1,"ip":"::1"}
+{"timestampUtc":"2026-03-24T06:40:55.5559905Z","category":"auth","action":"login_success","severity":"info","username":"dangpn","customerId":1,"ip":"::1"}
+{"timestampUtc":"2026-03-26T08:34:30.9269080Z","category":"auth","action":"login_success","severity":"info","username":"dangpn","customerId":1,"ip":"::1"}
